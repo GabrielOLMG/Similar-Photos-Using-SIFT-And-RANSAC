@@ -1,0 +1,8 @@
+tqdm
+numpy
+pandas
+requests
+ipykernel
+matplotlib
+scikit-image
+opencv-python
